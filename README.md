@@ -10,7 +10,7 @@
 ---
 
 ## <a name="1"></a>1. About
-Subversion (VisualSVN) hook scripts that post messages to Discord.
+This repository contains Subversion (VisualSVN) hook scripts that post messages to Discord.
 
 **NOTE:** The CMD hook scripts that call the Python scripts are only valid when used with a Windows installation of VisualSVN. However, it should not be difficult to set it up with a non-Windows installation.
 
